@@ -21,7 +21,7 @@
     },
     {
       "rel": "style",
-      "href": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/collections/IDEAS2_wildlife/flatstyle.json",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets/collections/IDEAS2_wildlife/flatstyle.json",
       "type": "text/cog-styles",
       "asset:keys": [
         "Wildlife Biodiversity indicator"
@@ -35,7 +35,7 @@
     }
   ],
   "subtitle": "Identify areas of high biodiversity",
-  "thumbnail": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
+  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
   "themes": [
     "agriculture"
   ],
@@ -102,14 +102,14 @@
   ],
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/cm_legend.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/cm_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
       "type": "image/png",
       "roles": [
         "thumbnail"

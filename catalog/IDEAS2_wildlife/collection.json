@@ -70,7 +70,7 @@
     }
   ],
   "subtitle": "Identify areas of high biodiversity",
-  "thumbnail": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
+  "thumbnail": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
   "themes": [
     "agriculture"
   ],
@@ -148,23 +148,23 @@
       "agriculture"
     ],
     "satellite": [
-      "Sentinel-3",
-      "MODIS"
+      "MODIS",
+      "Sentinel-3"
     ],
     "thumbnail": [
-      "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/IDEAS2_wildlife.png"
+      "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png"
     ]
   },
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/cm_legend.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/cm_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
+      "href": "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main//IDEAS2_wildlife/IDEAS2_wildlife.png",
       "type": "image/png",
       "roles": [
         "thumbnail"
