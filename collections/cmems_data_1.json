@@ -1,7 +1,7 @@
 {
   "Name": "cmems_data_chl",
   "Title": "Try Out Global Ocean Colour",
-  "EodashIdentifier": "indi=CMEMS_CHL",
+  "EodashIdentifier": "CMEMS_CHL_TRY_OUT",
   "Subtitle": "",
   "Description": "Try out example.",
   "Themes": [],
@@ -29,7 +29,7 @@
   "Resources": [
     {
       "EndPoint": "https://wmts.marine.copernicus.eu/teroWmts/OCEANCOLOUR_GLO_BGC_L4_NRT_009_102/cmems_obs-oc_glo_bgc-reflectance_nrt_l4-olci-300m_P1M_202211",
-      "Name": "marinedatastore",
+      "Name": "marinedatastore_try_out",
       "Type": "WMTSCapabilities",
       "LayerId": "",
       "Variable": "",
