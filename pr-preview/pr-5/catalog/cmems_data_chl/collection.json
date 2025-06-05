@@ -16,12 +16,12 @@
       "type": "application/json",
       "title": "CMEMS Chlorophyll",
       "endpointtype": "marinedatastore_WMTSCapabilities",
-      "code": "CMEMS_CHL_1",
+      "code": "CMEMS_CHL",
       "id": "cmems_data_chl",
       "themes": [],
       "tags": [],
       "agency": [],
-      "subcode": "CMEMS_CHL_1",
+      "subcode": "CMEMS_CHL",
       "collection_group": "",
       "sensor": [],
       "satellite": [],
@@ -71,7 +71,7 @@
   "locations": true,
   "tags": [],
   "agency": [],
-  "subcode": "CMEMS_CHL_1",
+  "subcode": "CMEMS_CHL",
   "collection_group": "",
   "sensor": [],
   "satellite": [],
@@ -116,7 +116,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "CMEMS_CHL_1"
+      "CMEMS_CHL"
     ],
     "thumbnail": [
       "https://raw.githubusercontent.com/eoxhub-workspaces/public-catalog/refs/heads/main/assets//"
