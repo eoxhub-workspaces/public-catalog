@@ -1,7 +1,7 @@
 {
   "Name": "cmems_data_chl",
   "Title": "Global Ocean Colour",
-  "EodashIdentifier": "CMEMS_OC_GLOB",
+  "EodashIdentifier": "CMEMS_CHL",
   "Subtitle": "",
   "Description": "Try out example.",
   "Themes": [],
